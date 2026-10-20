@@ -2,7 +2,7 @@
 
 **Agente conversacional pedagógico para el apoyo de habilidades metacognitivas en educación superior.**
 
-MetaPuma es un sistema conversacional inteligente desarrollado por Joaquín Navarro Perales como parte de su investigación doctoral en Ciencias de la Computación de la Universidad Internacional de La Rioja (UNIR).
+MetaPuma es un sistema conversacional inteligente desarrollado por Joaquin Navarro Perales como parte de su investigación doctoral en Ciencias de la Computación de la Universidad Internacional de La Rioja (UNIR).
 
 El sistema utiliza Procesamiento del Lenguaje Natural (PLN) para interactuar con estudiantes mediante preguntas abiertas, pistas y retroalimentación. Fue implementado en **Dialogflow ES** e integrado con **Telegram** como interfaz de comunicación.
 
