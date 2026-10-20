@@ -1,0 +1,57 @@
+{
+  "id": "ce91f039-7ff0-4cdc-ba06-6f950d517b99",
+  "name": "P14",
+  "auto": true,
+  "contexts": [
+    "p13p14"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "p14p15",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Correcto. Puedes consultar tu historial académico en el sitio web del Sistema Integral de Administración Escolar, conocido por sus siglas SIAE (www.dgae-siae.unam.mx/www_gate.php). Al acceder debes seleccionar Registros Académicos y Trayectoria Escolar."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "14. ¿Cómo se llama el número que debes consultar en el primer paso para tramitar tu seguro de salud?"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

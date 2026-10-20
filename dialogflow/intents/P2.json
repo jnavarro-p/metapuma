@@ -1,0 +1,57 @@
+{
+  "id": "4026556d-0bd6-48f4-8fc1-5e74013a1c1f",
+  "name": "P2",
+  "auto": true,
+  "contexts": [
+    "p1p2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom",
+      "affectedContexts": [
+        {
+          "name": "p2p3",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Así es, el sitio web en el que puedes realizar tu inscripción se llama Galileo Filos (www.galileo.filos.unam.mx). Para ello debes presionar el menú Inscripción y aparecerá si hay trámites disponibles en ese momento."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "2. ¿Cómo se les llama a los exámenes extraordinarios que se llevan a cabo al final del semestre?"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

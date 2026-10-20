@@ -1,0 +1,75 @@
+[
+  {
+    "id": "7f0ef48b-2bb7-49eb-9f45-c9521b33fbf5",
+    "data": [
+      {
+        "text": "se llama delefyl",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "bc2b6008-ce1d-41b4-9369-1090ec5c2bfd",
+    "data": [
+      {
+        "text": "departamento de lenguas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "83361d2c-d8d1-496d-8e32-849cc05915e9",
+    "data": [
+      {
+        "text": "departamento de lenguas de ",
+        "userDefined": false
+      },
+      {
+        "text": "la facultad de filosofía y letras",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c7aee453-e221-48d4-bb8b-fc862c5bb1a9",
+    "data": [
+      {
+        "text": "departamento de lenguas de ",
+        "userDefined": false
+      },
+      {
+        "text": "la ffyl",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "9e45562a-08bc-48eb-a82c-77bdf7599f69",
+    "data": [
+      {
+        "text": "delefyl",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

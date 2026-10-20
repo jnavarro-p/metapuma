@@ -1,0 +1,83 @@
+[
+  {
+    "id": "4932af00-39c5-4d07-a8fd-e76e101edf1b",
+    "data": [
+      {
+        "text": "es",
+        "userDefined": false
+      },
+      {
+        "text": " el numero de ",
+        "userDefined": false
+      },
+      {
+        "text": "seguridad social",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "637198d5-7b0c-41f9-aa00-e0cfb62e7da1",
+    "data": [
+      {
+        "text": "número de ",
+        "userDefined": false
+      },
+      {
+        "text": "seguridad social",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "0cfa0bdc-e5aa-46c0-9d2c-f5efe521a8b8",
+    "data": [
+      {
+        "text": "es",
+        "userDefined": false
+      },
+      {
+        "text": " el nss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a3a57acb-db93-4b1d-92ab-645c5cb8046e",
+    "data": [
+      {
+        "text": "se llama nss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3fb67acb-4b85-4bfc-a7c3-61eb1026c844",
+    "data": [
+      {
+        "text": "nss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

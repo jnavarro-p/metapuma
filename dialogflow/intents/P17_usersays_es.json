@@ -1,0 +1,135 @@
+[
+  {
+    "id": "325d256e-fd2d-4bfd-b0d5-4ec1f369dd8a",
+    "data": [
+      {
+        "text": "con ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " curso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "72cc0f03-e76d-4288-a8ec-cf4be0f811ef",
+    "data": [
+      {
+        "text": "con ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " examen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "0b88e68a-9496-43ea-b11b-6f9a708cbb45",
+    "data": [
+      {
+        "text": "por curso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d10b7487-c9f5-403c-8edd-5a775b2cb02b",
+    "data": [
+      {
+        "text": "por examen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "824683ff-0b12-4fcf-a6f0-48802aebae4a",
+    "data": [
+      {
+        "text": "comprension de lectura",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "b0f284ad-ad30-4240-a756-3ec9caf6e289",
+    "data": [
+      {
+        "text": "curso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "855688a9-0895-4478-bd45-5563257b1e9a",
+    "data": [
+      {
+        "text": "curso de comprensión de lectura",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "2185a5b5-d3f7-4443-a217-89f94f42d8e7",
+    "data": [
+      {
+        "text": "examen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "94c41848-a4f4-40bd-b872-83c0179b445e",
+    "data": [
+      {
+        "text": "examen de requisito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

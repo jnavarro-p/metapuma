@@ -1,0 +1,47 @@
+{
+  "id": "83753a43-92e3-465f-b89f-3916ca60619a",
+  "name": "Fallback P18",
+  "auto": true,
+  "contexts": [
+    "p18Fin"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "p18Fin",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Sigue esforzándote, uno de ellos es el idioma de Michel Foucault.",
+            "Inténtalo una vez más, uno de ellos es el idioma de Tomas de Campanella."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

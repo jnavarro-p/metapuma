@@ -1,0 +1,57 @@
+{
+  "id": "149aaaf1-ea46-4833-b619-283d63b643ec",
+  "name": "P12",
+  "auto": true,
+  "contexts": [
+    "p11p12"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "p12p13",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Así es, en caso de no poder recuperar tu NIP en la sección “Recupera NIP” del sitio Galileo Filos debes asistir a las ventanillas de servicios escolares con una identificación oficial."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "12. ¿Cómo se llama el sitio web en el que puedes obtener tu comprobante de inscripción?"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

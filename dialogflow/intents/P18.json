@@ -1,0 +1,57 @@
+{
+  "id": "bf8bcccc-ec3a-4a4a-adb2-dcd44e8cdab7",
+  "name": "P18",
+  "auto": true,
+  "contexts": [
+    "p17p18"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "p18Fin",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Así es, en la sección Programación del sitio web Galileo Filos (www.galileo.filos.unam.mx) se publican las fechas y horarios de cambios de grupo y se realizan por medio del menú Inscripción."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "18. Menciona un idioma que te permita liberar el requisito de la constancia de comprensión de lectura en DELEFYL."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

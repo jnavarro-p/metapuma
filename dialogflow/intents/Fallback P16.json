@@ -1,0 +1,47 @@
+{
+  "id": "745f7a05-203b-4f7a-a92d-f95823453ff2",
+  "name": "Fallback P16",
+  "auto": true,
+  "contexts": [
+    "p16p17"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "p16p17",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Vuelve a intentarlo, una de ellas es una evaluación escrita de tus habilidades.",
+            "Inténtalo otra vez, una de ellas es un programa de formación diseñado para la adquisición de habilidades."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

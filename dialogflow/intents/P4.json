@@ -1,0 +1,57 @@
+{
+  "id": "7b880a90-de17-4271-b2ff-47fde6df79ae",
+  "name": "P4",
+  "auto": true,
+  "contexts": [
+    "p3p4"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "p4p5",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Esa opción es válida, pues de acuerdo con el Reglamento de opciones de titulación a licenciatura, las opciones son:\n-Tesis o tesina\n-Informe académico de investigación\n-Informe académico de trabajo profesional\n-Actividad de apoyo a la docencia (elaboración comentada de material didáctico)\n-Estudios de posgrado\n-Diplomados de Educación Continua de la FFyL o de la UNAM\n-Informe académico de servicio social"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "4. ¿Cómo se llama el sitio web en el que puedes consultar los horarios de los cursos ordinarios?"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

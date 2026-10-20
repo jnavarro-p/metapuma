@@ -1,0 +1,57 @@
+{
+  "id": "36c782a4-83fb-4905-ac31-526d47073465",
+  "name": "P8",
+  "auto": true,
+  "contexts": [
+    "p7p8"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "p8p9",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Correcto. La plataforma en la que aparecen las distintas opciones para realizar tu servicio social se llama: Sistema de Información Automatizada de Servicio Social, conocida por sus siglas SIASS (www.siass.unam.mx)."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "8. ¿Qué porcentaje de créditos necesitas para comenzar tu servicio social?"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

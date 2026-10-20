@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1000c045-dd6b-4b1b-82b3-e8c9809c4694",
+    "data": [
+      {
+        "text": "exámenes ",
+        "userDefined": false
+      },
+      {
+        "text": "EB",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ffba11f4-6338-4c04-a4be-0b601e211f79",
+    "data": [
+      {
+        "text": "exámenes extraordinarios ",
+        "userDefined": false
+      },
+      {
+        "text": "eb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "56479a2a-1bf2-4c68-af89-7a2654dc065d",
+    "data": [
+      {
+        "text": "extraordinarios ",
+        "userDefined": false
+      },
+      {
+        "text": "eb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "bb2f7f7d-bf54-4aab-919e-69b127164a8e",
+    "data": [
+      {
+        "text": "eb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

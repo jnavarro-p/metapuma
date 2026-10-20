@@ -1,0 +1,47 @@
+{
+  "id": "d70521ec-1f83-4726-b0a9-b1ad9dbf98ff",
+  "name": "Fallback P4",
+  "auto": true,
+  "contexts": [
+    "p4p5"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "p4p5",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Haz un nuevo intento, inicia con la letra “g”.",
+            "Prueba una vez más, la primera palabra es el nombre de un astrónomo italiano."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": "73fba0b5-9395-4595-9c72-da9d976c4671",
+  "name": "Fallback P10",
+  "auto": true,
+  "contexts": [
+    "p10p11"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "p10p11",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Sigue esforzándote, es parecido a una contraseña.",
+            "Inténtalo una vez más, sus siglas tienen que ver con \"identificación personal\"."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,135 @@
+[
+  {
+    "id": "3fb9ee4a-bb50-40de-a03f-fc8a1195276d",
+    "data": [
+      {
+        "text": "en ",
+        "userDefined": false
+      },
+      {
+        "text": "el segundo",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "piso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3de7cc21-edf9-41e4-8675-56c8aa37c529",
+    "data": [
+      {
+        "text": "el segundo piso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "6e0e4194-d054-4d24-8b1d-44919f144acc",
+    "data": [
+      {
+        "text": "segundo piso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "b4d2af21-07a3-4e9b-b543-45a9877a14ac",
+    "data": [
+      {
+        "text": "el 2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "19728016-eaa9-4246-b689-f8d26b5ded6d",
+    "data": [
+      {
+        "text": "el ",
+        "userDefined": false
+      },
+      {
+        "text": "2do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "333fe86f-322e-4a92-acc7-3dfa3b0ce371",
+    "data": [
+      {
+        "text": "el segundo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "0c120d4b-573c-41aa-9796-f7795c367485",
+    "data": [
+      {
+        "text": "2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "612f1aa5-aece-42e3-83d9-81d9072bfa95",
+    "data": [
+      {
+        "text": "2do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "2ea857e5-4d39-4320-a1c8-6fdb4d6fc1dd",
+    "data": [
+      {
+        "text": "segundo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

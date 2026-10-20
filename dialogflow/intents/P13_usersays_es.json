@@ -1,0 +1,146 @@
+[
+  {
+    "id": "a3e0ac29-bb60-4fcd-a4b8-40cb4fd362c4",
+    "data": [
+      {
+        "text": "galileo",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "filos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f138d372-5038-4e71-a6d4-932bbf8d2dff",
+    "data": [
+      {
+        "text": "galiileofilos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e225dbb5-5067-4ef2-9384-75ba0e05c6ed",
+    "data": [
+      {
+        "text": "galileo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "41dfd3f6-4253-49ae-8dd3-bf90eb2893b2",
+    "data": [
+      {
+        "text": "galileo.filos.unam.mx",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ca3cdbc5-ee6c-46d2-9d75-327f1ee0d98d",
+    "data": [
+      {
+        "text": "se llama ",
+        "userDefined": false
+      },
+      {
+        "text": "galileo",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "filos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "340f77ae-0136-4470-94f1-2c8fdcddcf0b",
+    "data": [
+      {
+        "text": "se llama galileofilos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "0665faaf-696e-4dc4-95cc-22d3581176ef",
+    "data": [
+      {
+        "text": "es",
+        "userDefined": false
+      },
+      {
+        "text": " galileofilos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f9695ae7-72a2-402a-8fcb-613f7601dc6b",
+    "data": [
+      {
+        "text": "es",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "galileo",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "filos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

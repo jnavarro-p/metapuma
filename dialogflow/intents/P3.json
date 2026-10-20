@@ -1,0 +1,57 @@
+{
+  "id": "7bfd2ea4-2866-41f9-b62f-ab21d5592c04",
+  "name": "P3",
+  "auto": true,
+  "contexts": [
+    "p2p3"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.DefaultWelcomeIntent-custom-custom",
+      "affectedContexts": [
+        {
+          "name": "p3p4",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Es correcto. Existen dos tipos de exámenes extraordinarios: los EA se realizan al inicio del semestre y los EB se realizan al final del mismo."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "3. Menciona una de las opciones de titulación de la licenciatura."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

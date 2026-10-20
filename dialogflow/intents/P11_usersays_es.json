@@ -1,0 +1,84 @@
+[
+  {
+    "id": "2335fbf7-8c8c-46d4-ba10-5b688499ce43",
+    "data": [
+      {
+        "text": "mi nip",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "dcd465df-4f09-48f7-890c-25101c32edca",
+    "data": [
+      {
+        "text": "número de identificación personal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3dd1e46a-29d8-4437-906c-f06516799142",
+    "data": [
+      {
+        "text": "el nip",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "feb99f8f-c1da-4097-accd-1993255e4bf3",
+    "data": [
+      {
+        "text": "es",
+        "userDefined": false
+      },
+      {
+        "text": " el nip",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3ab1fd34-db67-40c7-8b3d-b72e55dd0ead",
+    "data": [
+      {
+        "text": "se llama nip",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "2271e85f-3de9-4a26-88b6-c1287ed8435d",
+    "data": [
+      {
+        "text": "nip",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

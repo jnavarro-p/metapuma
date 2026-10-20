@@ -1,0 +1,231 @@
+[
+  {
+    "id": "6c39ec78-08c5-403b-b165-acee989ba770",
+    "data": [
+      {
+        "text": "informe de servicio social",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "cc8c0e34-0666-47fb-8f92-f6e6f0aaf9a9",
+    "data": [
+      {
+        "text": "informe académico de servicio social",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "03d4cd2d-1563-4abc-b177-3babd91cd0a9",
+    "data": [
+      {
+        "text": "diplomados de ",
+        "userDefined": false
+      },
+      {
+        "text": "educación",
+        "userDefined": false
+      },
+      {
+        "text": " continua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "45ce9524-01da-4281-930b-f49374fd8d52",
+    "data": [
+      {
+        "text": "diplomados",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "b8952714-2397-482f-9d7d-4fd5154596ec",
+    "data": [
+      {
+        "text": "diplomado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d2f69eca-90cb-46fc-a686-4b6b12bdb9db",
+    "data": [
+      {
+        "text": "estudios de especialización",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "527db9bb-a10c-4162-976c-2a71d95e083e",
+    "data": [
+      {
+        "text": "estudios de posgrado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c08eeabc-db34-4835-b857-0af20f05277f",
+    "data": [
+      {
+        "text": "elaboración de material didáctico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "33978171-a414-484c-8af4-95a1f86571df",
+    "data": [
+      {
+        "text": "elaboración comentada de material didáctico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "262ac69c-5201-4684-94fd-689593c3039c",
+    "data": [
+      {
+        "text": "apoyo a la docencia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "be2315f0-cf33-4f62-8def-fed07319c29f",
+    "data": [
+      {
+        "text": "actividad de apoyo a la docencia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5f73a618-d148-4199-8f37-7d685026b211",
+    "data": [
+      {
+        "text": "informe de trabajo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "adfe8c7e-282e-4e38-96bb-2242ecfcb7bc",
+    "data": [
+      {
+        "text": "informe de trabajo profesional",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "32db439e-9c9f-4908-a699-c6c0fce3868c",
+    "data": [
+      {
+        "text": "informe académico de trabajo profesional",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c1dbde51-2ede-4b8a-9403-25a95d39206a",
+    "data": [
+      {
+        "text": "informe académico de investigación",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "9366d57a-82ca-4ba8-a68e-ce41c51c4cb1",
+    "data": [
+      {
+        "text": "tesina",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f9b73590-a39d-4bc7-947b-83de22255723",
+    "data": [
+      {
+        "text": "tesis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

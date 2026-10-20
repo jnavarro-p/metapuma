@@ -1,0 +1,163 @@
+[
+  {
+    "id": "464d7b64-91b6-4f43-bbfa-dcfb9ad01e13",
+    "data": [
+      {
+        "text": "www.",
+        "userDefined": false
+      },
+      {
+        "text": "galileo.filos.unam.mx",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5d80f233-d039-4f0e-8bf7-668c92bef09a",
+    "data": [
+      {
+        "text": "galileo",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "filos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "031decb5-37e3-45bb-a668-617b60a75534",
+    "data": [
+      {
+        "text": "galiileofilos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ca331695-cb63-4de4-9318-97d55b4996b2",
+    "data": [
+      {
+        "text": "galileo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f5337dae-821d-4e67-b281-dc5eebd23a1e",
+    "data": [
+      {
+        "text": "galileo.filos.unam.mx",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3310d786-8cd3-4790-8e9e-4aeecc4deb5d",
+    "data": [
+      {
+        "text": "se llama ",
+        "userDefined": false
+      },
+      {
+        "text": "galileo",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "filos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "aaf6da8c-57b2-4df2-994c-f3f9ac608b46",
+    "data": [
+      {
+        "text": "se llama galileofilos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "70b2e6a1-0cf6-4b6c-a220-c6aa2261be21",
+    "data": [
+      {
+        "text": "es",
+        "userDefined": false
+      },
+      {
+        "text": " galileofilos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "0fdbe05e-d476-4ea4-985e-f33b1b5af082",
+    "data": [
+      {
+        "text": "es",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "galileo",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "filos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

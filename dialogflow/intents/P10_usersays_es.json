@@ -1,0 +1,80 @@
+[
+  {
+    "id": "39e88351-50ad-43e2-92fc-696ad9bf6b81",
+    "data": [
+      {
+        "text": "becario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "38ab2d2e-a724-4b01-8a6d-adc85cddec5d",
+    "data": [
+      {
+        "text": "becarios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "164e83d2-3473-4b77-96fd-c9a9a823b43f",
+    "data": [
+      {
+        "text": "www.becarios.unam.mx",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7fbe1ca2-12fc-4f5c-a064-6148f53e0ec2",
+    "data": [
+      {
+        "text": "www.integra.unam.mx",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3afbeb03-bef5-4a70-96ab-2b27857040cd",
+    "data": [
+      {
+        "text": "portal del becario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "546628f9-265f-4095-ad1f-b88c07e7865d",
+    "data": [
+      {
+        "text": "integra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

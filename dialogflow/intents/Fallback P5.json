@@ -1,0 +1,47 @@
+{
+  "id": "a22d7590-62e6-4fec-aa87-e5ba79875df6",
+  "name": "Fallback P5",
+  "auto": true,
+  "contexts": [
+    "p5p6"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "p5p6",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "No dejes de intentarlo, inicia con la letra “g”.",
+            "Vuelve a intentarlo, la primera palabra es el nombre de un astrónomo italiano."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

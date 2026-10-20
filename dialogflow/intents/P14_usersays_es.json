@@ -1,0 +1,96 @@
+[
+  {
+    "id": "eb2a5268-2f75-4c43-8e6c-b391008f7eee",
+    "data": [
+      {
+        "text": "siae",
+        "userDefined": false
+      },
+      {
+        "text": " dgae",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "76c2118a-d1b1-46a2-8403-4c7feb985abe",
+    "data": [
+      {
+        "text": "siae unam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "74c072c7-f11e-41b5-807a-c17291e5ae1e",
+    "data": [
+      {
+        "text": "es",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "el siae",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7e75d911-b05d-47cb-85d5-39c82d9b4d33",
+    "data": [
+      {
+        "text": "se llama ",
+        "userDefined": false
+      },
+      {
+        "text": "siae",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "570504fe-a64e-4eb1-8b61-ad0e233c5788",
+    "data": [
+      {
+        "text": "sistema integral de administración escolar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d2ffc23d-3874-4e92-8fc7-909074962208",
+    "data": [
+      {
+        "text": "siae",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

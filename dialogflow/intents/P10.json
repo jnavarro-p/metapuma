@@ -1,0 +1,57 @@
+{
+  "id": "d75a4326-d80a-4566-bcfe-603ad6141c0a",
+  "name": "P10",
+  "auto": true,
+  "contexts": [
+    "p9p10"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "p10p11",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Así es, el Portal del becario (www.becarios.unam.mx) y el sistema Integra (www.integra.unam.mx) son  las herramientas para solicitar y dar seguimiento a becas que proporciona la Dirección General de Orientación y Atención Educativa (DGOAE)."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "10. ¿Cómo se llama el número que te sirve para realizar trámites como inscripciones, bajas, altas y cambios de grupo?"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

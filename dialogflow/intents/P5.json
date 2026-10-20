@@ -1,0 +1,57 @@
+{
+  "id": "209d81de-f856-436b-8860-27f22305a32a",
+  "name": "P5",
+  "auto": true,
+  "contexts": [
+    "p4p5"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "p5p6",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Correcto. Puedes consultar los horarios de los cursos ordinarios en la sección Horarios del sitio web Galileo Filos (galileo.filos.unam.mx). Para la modalidad a distancia aquí aparece la relación de profesores y asignaturas, así como las claves para las inscripciones."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "5. ¿Cómo se llama el sitio web en el que se publica la fecha en que te corresponde inscribirte?"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

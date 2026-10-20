@@ -1,0 +1,47 @@
+{
+  "id": "1a533ba5-998f-4cbd-8d3a-36108ec9a4ac",
+  "name": "Fallback P12",
+  "auto": true,
+  "contexts": [
+    "p12p13"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "p12p13",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Intenta una vez más, inicia con la letra “g”.",
+            "Sigue intentándolo, la primera palabra es el nombre de un astrónomo italiano."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,78 @@
+[
+  {
+    "id": "c9bfca85-9fb5-4090-b194-d76606ca2d54",
+    "data": [
+      {
+        "text": "servicios",
+        "userDefined": false
+      },
+      {
+        "text": " escolares ",
+        "userDefined": false
+      },
+      {
+        "text": "ventanilla",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a1b5cfaf-7000-4976-8cd3-36a0f3d19468",
+    "data": [
+      {
+        "text": "ventanilla de servicios",
+        "userDefined": false
+      },
+      {
+        "text": " escolares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "b54410a9-3696-43ed-af5a-e560e1d5fd56",
+    "data": [
+      {
+        "text": "servicios",
+        "userDefined": false
+      },
+      {
+        "text": " escolares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "78776f74-671c-4e51-af2c-b61bbe59dd06",
+    "data": [
+      {
+        "text": "en las ventanillas de ",
+        "userDefined": false
+      },
+      {
+        "text": "servicios",
+        "userDefined": false
+      },
+      {
+        "text": " escolares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

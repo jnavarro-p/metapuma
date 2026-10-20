@@ -1,0 +1,57 @@
+{
+  "id": "b2d41a58-c4e8-4f39-b999-bcd8ad6b1495",
+  "name": "P17",
+  "auto": true,
+  "contexts": [
+    "p16p17"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "p17p18",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Así es, las dos formas para obtener la la constancia de acreditación de idioma en DELEFYL son:\n-Examen de requisito: consiste en presentar un examen de comprensión de lectura en el idioma elegido.\n-Curso de comprensión de lectura. Cada semestre, DELEFyL oferta varios cursos de comprensión de lectura de distintos idiomas."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "17. ¿Cómo se llama el sitio web en el que puedes realizar cambios de grupo?"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

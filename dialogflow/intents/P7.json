@@ -1,0 +1,52 @@
+{
+  "id": "41c2f511-38bb-4aeb-9fb1-27fe983fd975",
+  "name": "P7",
+  "auto": true,
+  "contexts": [
+    "p6p7"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "p7p8",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Así es, puedes solicitar la selección de lecturas en el segundo piso de la Torre de Humanidades I de la FFyL con la Lic. Martha Gutiérrez Galán, de lunes a viernes en un horario de 11 a 14:30 y de 17:00 a 19:00."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "7. El primer paso para realizar el servicio social consiste en elegir un programa en la plataforma llamada:"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

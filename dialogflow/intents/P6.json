@@ -1,0 +1,57 @@
+{
+  "id": "64d4245c-a931-4ecb-845b-9ceb3162bdc3",
+  "name": "P6",
+  "auto": true,
+  "contexts": [
+    "p5p6"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "p6p7",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Así es, en la sección Programación del sitio web Galileo Filos (galileo.filos.unam.mx) se publican las fechas y horarios de inscripción de acuerdo a la generación a la que perteneces."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "6. ¿En qué piso de la Torre de Humanidades se solicita la Selección de Lecturas?"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,49 @@
+{
+  "id": "c4833151-bdbd-4893-ab54-d24663beb24b",
+  "name": "Fallback P8",
+  "auto": true,
+  "contexts": [
+    "p8p9"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "p8p9",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Prueba de nuevo, es más del 50%.",
+            "Intenta una vez más, es menos del 85%.",
+            "Sigue intentándolo, es más del 60%.",
+            "Inténtalo de nuevo, es menos de 75%."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

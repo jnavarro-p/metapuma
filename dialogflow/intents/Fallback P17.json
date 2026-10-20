@@ -1,0 +1,47 @@
+{
+  "id": "6d58d7ba-c778-4472-ae3f-d1860ab226b1",
+  "name": "Fallback P17",
+  "auto": true,
+  "contexts": [
+    "p17p18"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "p17p18",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Sigue esforzándote, inicia con la letra “g”.",
+            "Inténtalo una vez más, la primera palabra es el nombre de un astrónomo italiano."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

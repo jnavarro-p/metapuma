@@ -1,0 +1,49 @@
+{
+  "id": "986c20ac-0b2c-4b2d-a052-d77f86ac6029",
+  "name": "Fallback P3",
+  "auto": true,
+  "contexts": [
+    "p3p4"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "p3p4",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Sigue intentándolo, algunas de ellas se facilitan si trabajas en el ámbito educativo.",
+            "Inténtalo de nuevo, una de ellas implica estudios posteriores a la licenciatura.",
+            "Prueba de nuevo, varios de ellos son informes escritos.",
+            "Inténtalo otra vez, en una de ellas te basas en tu servicio social."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

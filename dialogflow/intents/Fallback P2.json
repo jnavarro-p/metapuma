@@ -1,0 +1,48 @@
+{
+  "id": "c8bd550d-fd18-4e3c-8955-4ef717f4b4cc",
+  "name": "Fallback P2",
+  "auto": true,
+  "contexts": [
+    "p2p3"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "p2p3",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Sigue intentándolo, recuerda que los dos tipos de exámenes extraordinarios tienen un identificador de dos letras.",
+            "Inténtalo de nuevo, la primera letra es “E”.",
+            "Continúa esforzándote, ten en cuenta que se abren dos periodos cada semestre con las dos primeras letras del abecedario."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
